@@ -27,4 +27,4 @@ Neste teste, você receberá um layout de front-end pré-desenvolvido em React.j
 - Utilização de boas práticas de programação.
 
 # Prazo:
-Você terá até o dia 12/04/2024 - 23:59 para concluir o teste.
+Você terá até o dia 18/04/2024 - 23:59 para concluir o teste.
